@@ -1,21 +1,7 @@
 [
     {"Wine Type": "Cabernet"},{"Wine Type": "Cabernet"},{"Wine Type": "Cabernet"},
     {
-      "Wine": "Nickel & Nickel 'Bear Track'",
-      "Price": 80,
-      "Winery Price": 135,
-      "WS": null,
-      "WE": null,
-      "RP": null,
-      "JS": null,
-      "JD": null,
-      "V": null,
-      "D": null,
-      "Star": null,
-      "Wine Type": "Cabernet"
-    },
-    {
-      "Wine": "Nickel & Nickel 'State Ranch'",
+      "Wine": "ALL Nickel & Nickel",
       "Price": 80,
       "Winery Price": 140,
       "WS": null,
@@ -113,6 +99,20 @@
       "Wine Type": "Cabernet"
     },
     {
+      "Wine": "Far Niente",
+      "Price": 85,
+      "Winery Price": 130,
+      "WS": null,
+      "WE": null,
+      "RP": null,
+      "JS": 96,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
+      "Wine Type": "Cabernet"
+    },
+    {
       "Wine": "Caymus Napa 1L",
       "Price": 65,
       "Winery Price": 90,
@@ -141,7 +141,7 @@
       "Wine Type": "Cabernet"
     },
     {
-      "Wine": "Frank Family CAB 1L",
+      "Wine": "Frank Family 1L",
       "Price": 75,
       "Winery Price": 150,
       "WS": null,
@@ -194,6 +194,62 @@
       "V": null,
       "D": null,
       "Star": "Yes",
+      "Wine Type": "Cabernet"
+    },
+    {
+      "Wine": "Mount Peak",
+      "Price": 35,
+      "Winery Price": 70,
+      "WS": null,
+      "WE": null,
+      "RP": 93,
+      "JS": null,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
+      "Wine Type": "Cabernet"
+    },
+    {
+      "Wine": "Jordan",
+      "Price": 40,
+      "Winery Price": 60,
+      "WS": null,
+      "WE": null,
+      "RP": null,
+      "JS": null,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
+      "Wine Type": "Cabernet"
+    },
+    {
+      "Wine": "Ink Grade",
+      "Price": 60,
+      "Winery Price": 120,
+      "WS": null,
+      "WE": 93,
+      "RP": null,
+      "JS": 94,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
+      "Wine Type": "Cabernet"
+    },
+    {
+      "Wine": "Sinegal",
+      "Price": 55,
+      "Winery Price": 90,
+      "WS": null,
+      "WE": null,
+      "RP": null,
+      "JS": null,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
       "Wine Type": "Cabernet"
     },
     {
@@ -264,6 +320,20 @@
       "V": null,
       "D": null,
       "Star": null,
+      "Wine Type": "International Red"
+    },
+    {
+      "Wine": "Muga Rioja",
+      "Price": 20,
+      "Winery Price": 40,
+      "WS": null,
+      "WE": null,
+      "RP": 94,
+      "JS": 94,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": "Yes",
       "Wine Type": "International Red"
     },
     {
@@ -421,6 +491,20 @@
       "Wine Type": "Chardonnay"
     },
     {
+      "Wine": "Admire",
+      "Price": 26,
+      "Winery Price": 35,
+      "WS": null,
+      "WE": null,
+      "RP": null,
+      "JS": null,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
+      "Wine Type": "Pinot Noir"
+    }
+    {
       "Wine": "Lloyd",
       "Price": 30,
       "Winery Price": 42,
@@ -478,7 +562,7 @@
     },
     {
       "Wine": "Trefethen",
-      "Price": 25,
+      "Price": 20,
       "Winery Price": 40,
       "WS": null,
       "WE": null,
@@ -632,7 +716,7 @@
     },
     {
       "Wine": "Bollinger",
-      "Price": null,
+      "Price": 75,
       "Winery Price": 95,
       "WS": 93,
       "WE": null,
@@ -743,7 +827,7 @@
       "Wine Type": "Pinot Noir"
     },
     {
-      "Wine": "Belle Glos Las Alturas",
+      "Wine": "ALL Belle Glos",
       "Price": 25,
       "Winery Price": 55,
       "WS": null,
@@ -802,6 +886,34 @@
       "Wine": "En Route",
       "Price": 30,
       "Winery Price": 60,
+      "WS": null,
+      "WE": null,
+      "RP": null,
+      "JS": null,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
+      "Wine Type": "Pinot Noir"
+    },
+    {
+      "Wine": "Admire",
+      "Price": 26,
+      "Winery Price": 35,
+      "WS": null,
+      "WE": null,
+      "RP": null,
+      "JS": null,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
+      "Wine Type": "Pinot Noir"
+    },
+    {
+      "Wine": "Boen",
+      "Price": 20,
+      "Winery Price": 35,
       "WS": null,
       "WE": null,
       "RP": null,
