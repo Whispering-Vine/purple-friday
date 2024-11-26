@@ -504,20 +504,6 @@
       "Wine Type": "Chardonnay"
     },
     {
-      "Wine": "Frank Family",
-      "Price": 23,
-      "Winery Price": 40,
-      "WS": null,
-      "WE": null,
-      "RP": null,
-      "JS": null,
-      "JD": null,
-      "V": null,
-      "D": null,
-      "Star": null,
-      "Wine Type": "Chardonnay"
-    },
-    {
       "Wine": "En Route",
       "Price": 30,
       "Winery Price": 50,
@@ -686,20 +672,6 @@
       "Wine Type": "Sparkling"
     },
     {
-      "Wine": "G.H. Mumm Rose",
-      "Price": 35,
-      "Winery Price": 65,
-      "WS": null,
-      "WE": null,
-      "RP": null,
-      "JS": null,
-      "JD": null,
-      "V": null,
-      "D": null,
-      "Star": null,
-      "Wine Type": "Sparkling"
-    },
-    {
       "Wine": "Bollinger",
       "Price": 75,
       "Winery Price": 95,
@@ -795,6 +767,34 @@
       "V": null,
       "D": null,
       "Star": null,
+      "Wine Type": "Other Red"
+    },
+    {
+      "Wine": "Meyer-Näkel Rosé",
+      "Price": 25,
+      "Winery Price": 40,
+      "WS": null,
+      "WE": null,
+      "RP": null,
+      "JS": null,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": null,
+      "Wine Type": "Other Red"
+    },
+    {
+      "Wine": "High West Gift Boxes",
+      "Price": 45,
+      "Winery Price": null,
+      "WS": null,
+      "WE": null,
+      "RP": null,
+      "JS": null,
+      "JD": null,
+      "V": null,
+      "D": null,
+      "Star": "Yes",
       "Wine Type": "Other Red"
     },
     {
