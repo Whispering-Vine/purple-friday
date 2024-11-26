@@ -786,7 +786,7 @@
     {
       "Wine": "High West Gift Boxes",
       "Price": 45,
-      "Winery Price": null,
+      "Winery Price": 75,
       "WS": null,
       "WE": null,
       "RP": null,
@@ -794,7 +794,7 @@
       "JD": null,
       "V": null,
       "D": null,
-      "Star": "Yes",
+      "Star": null,
       "Wine Type": "Other Red"
     },
     {
