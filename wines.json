@@ -252,15 +252,15 @@
       "Wine Type": "Cabernet"
     },
     {
-      "Wine": "Forman",
-      "Price": 65,
-      "Winery Price": 130,
+      "Wine": "Mount Veeder",
+      "Price": 35,
+      "Winery Price": 70,
       "WS": null,
-      "WE": null,
+      "WE": 92,
       "RP": null,
-      "JS": null,
-      "JD": 94,
-      "V": 96,
+      "JS": 92,
+      "JD": 93,
+      "V": null,
       "D": null,
       "Star": "Yes",
       "Wine Type": "Cabernet"
